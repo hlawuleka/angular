@@ -67,7 +67,7 @@ The `tsconfig.json` file may contain an additional configuration block:
 
 ### `genDir`
 
-the `genDir` option controls the path (relative to `tsconfig.json`) where the generated file tree
+The `genDir` option controls the path (relative to `tsconfig.json`) where the generated file tree
 will be written. If `genDir` is not set, then the code will be generated in the source tree, next
 to your original sources. More options may be added as we implement more features.
 
